@@ -7,3 +7,4 @@ Testing GitHub features
 * Bhawesh Papanai
 * Harsh D
 * Atharv Prabhu
+* Jesslyn Mascarenhas
